@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
   // Init only once
-  $.validateAddress("iv-a4dc26d2e4022fc9423af1009489c3e0");
+  $.validateAddress("YOUR API KEY");
 
   // OnClick
   $("#submit").click(function () {
